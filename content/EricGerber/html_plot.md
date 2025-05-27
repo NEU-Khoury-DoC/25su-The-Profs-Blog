@@ -12,7 +12,7 @@ showAuthorsBadges : false
 
 ## Testing .html image embedding
 
-The .html file below is hosted in the /assets folder
+I'm going to try putting it in the content/EricGerber (the working directory of the .md file)
 
-{% include_relative assets/birth_death_EU2.html %}
+{% include_relative birth_death_EU2.html %}
 
