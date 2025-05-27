@@ -18,4 +18,4 @@ Let's talk about Principal Component Analysis!
 
 The .html file below is hosted in the /assets folder
 
-![test plot](/birth_death_EU.html)
+[test plot](/birth_death_EU.html)
