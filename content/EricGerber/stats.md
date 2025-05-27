@@ -14,3 +14,8 @@ showAuthorsBadges : false
 
 Let's talk about Principal Component Analysis!
 
+## Testing .html image embedding
+
+The .html file below is hosted in the /assets folder
+
+![test plot](/birth_death_EU.html)
