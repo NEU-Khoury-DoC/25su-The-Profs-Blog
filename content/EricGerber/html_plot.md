@@ -14,4 +14,5 @@ showAuthorsBadges : false
 
 The .html file below is hosted in the /assets folder
 
-{%include_relative assets/birth_death_EU.html%}
+{% include_relative assets/birth_death_EU2.html %}
+
